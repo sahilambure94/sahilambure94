@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Sahil Ambure
-- 👀 I’m interested in developing, designing apps and websites
-- 🌱 I’m currently learning python3
-- 💞️ I’m looking to collaborate on machine learning and Artificial Intelligence
+- 👀 I’m interested in flutter development
+- 🌱 I’m currently learning flutter
+- 💞️ I’m looking to collaborate on flutter
 - 📫 How to reach me, Reach me on Instagram:- @sahilambure.pvt
 
 <!---
