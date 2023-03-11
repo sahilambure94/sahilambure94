@@ -1,8 +1,7 @@
 - 👋 Hi, I’m Sahil Ambure
-- 👀 I’m interested in flutter development
-- 🌱 I’m currently learning flutter
+- 👀 Flutter Developer
 - 💞️ I’m looking to collaborate on flutter
-- 📫 How to reach me, Reach me on Instagram:- @sahilambure.pvt
+- 📫 How to reach me, Reach me on Instagram:- ambures87@gmail.com
 
 <!---
 sahilambure94/sahilambure94 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
